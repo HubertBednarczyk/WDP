@@ -1,0 +1,5 @@
+4 podstawowe cechy ( wymagane )
+Typ funkcji
+nazwa funkcji
+argumenty funkcji
+cialo funkcji

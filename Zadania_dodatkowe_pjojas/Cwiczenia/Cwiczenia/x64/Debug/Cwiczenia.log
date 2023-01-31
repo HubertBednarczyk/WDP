@@ -1,0 +1,3 @@
+﻿  Cwiczenia.cpp
+C:\Studia\Drugi Rok\Powtorzenie_WDP\Zadania_dodatkowe_pjojas\Cwiczenia\Cwiczenia\Cwiczenia.cpp(402,18): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  Cwiczenia.vcxproj -> C:\Studia\Drugi Rok\Powtorzenie_WDP\Zadania_dodatkowe_pjojas\Cwiczenia\x64\Debug\Cwiczenia.exe

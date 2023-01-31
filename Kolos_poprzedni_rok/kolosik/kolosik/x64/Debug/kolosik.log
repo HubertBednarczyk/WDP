@@ -1,0 +1,4 @@
+﻿  kolosik.cpp
+C:\Studia\Drugi Rok\Powtorzenie_WDP\Kolos_poprzedni_rok\kolosik\kolosik\kolosik.cpp(24,40): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Studia\Drugi Rok\Powtorzenie_WDP\Kolos_poprzedni_rok\kolosik\kolosik\kolosik.cpp(25,25): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+  kolosik.vcxproj -> C:\Studia\Drugi Rok\Powtorzenie_WDP\Kolos_poprzedni_rok\kolosik\x64\Debug\kolosik.exe

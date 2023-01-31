@@ -1,0 +1,3 @@
+﻿  Funkcje_WDP.cpp
+C:\Studia\Drugi Rok\Powtorzenie_WDP\Funkcje_WDP\Funkcje_WDP\Funkcje_WDP.cpp(124,30): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Funkcje_WDP.vcxproj -> C:\Studia\Drugi Rok\Powtorzenie_WDP\Funkcje_WDP\x64\Debug\Funkcje_WDP.exe

@@ -1,0 +1,3 @@
+﻿  Cw8_visual.cpp
+C:\Studia\Drugi Rok\Powtorzenie_WDP\Cw8_visual\Cw8_visual\Cw8_visual.cpp(243,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Cw8_visual.vcxproj -> C:\Studia\Drugi Rok\Powtorzenie_WDP\Cw8_visual\x64\Debug\Cw8_visual.exe
